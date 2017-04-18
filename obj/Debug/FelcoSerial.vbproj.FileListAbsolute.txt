@@ -1,0 +1,11 @@
+D:\_Development\FelcoSerial\FelcoSerial\bin\Debug\Resources\FelcoLogo.jpg
+D:\_Development\FelcoSerial\FelcoSerial\bin\Debug\FelcoSerial.exe
+D:\_Development\FelcoSerial\FelcoSerial\bin\Debug\FelcoSerial.pdb
+D:\_Development\FelcoSerial\FelcoSerial\bin\Debug\FelcoSerial.xml
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.vbprojResolveAssemblyReference.cache
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.Form1.resources
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.Resources.resources
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.vbproj.GenerateResource.Cache
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.exe
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.xml
+D:\_Development\FelcoSerial\FelcoSerial\obj\Debug\FelcoSerial.pdb
